@@ -100,6 +100,6 @@ I believe the most valuable engineers aren't the ones who know the most framewor
 
 <div align="center">
 
-**cypherMBA** · New Orleans, LA · Director of Business Technology @ GEC, Inc.
+**cypherMBA** · New Orleans, LA · IT Business Solutions Architect & Engineer
 
 </div>
