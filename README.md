@@ -138,9 +138,9 @@ I'm not a theorist. Every project here started with a business problem and ended
 ### 📦 Enterprise Software
 | Certification | Issuer | Year |
 |---|---|---|
-| Deltek Vision Certified Master | Deltek | — |
-| Deltek Vision Certified CRM | Deltek | — |
-| Deltek Vision Certified Accounting | Deltek | — |
+| Deltek Vision Certified Master | Deltek | 2021 |
+| Deltek Vision Certified CRM | Deltek | 2021 |
+| Deltek Vision Certified Accounting | Deltek | 2021 |
 
 ### ✍️ Professional Development
 | Certification | Issuer | Year |
