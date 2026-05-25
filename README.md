@@ -11,7 +11,7 @@
 
 ## 🧠 What I Do
 
-I sit at the intersection of **executive technology leadership** and **hands-on AI development**. With 29+ years in enterprise IT, network architecture and engineering, civil engineering tech, computer aided drafting & design, enterprise geographic information systems, enterprise resource planning and database management, cybersecurity, data engineer, software developer, full stack engineer, cloud engineer, and an active pivot into applied AI. I architect and deploy systems that solve real operational problems with measurable impact.
+I sit at the intersection of **executive technology leadership** and **hands-on AI development**. With 29+ years in enterprise IT, network architecture and engineering, civil engineering tech, computer aided drafting & design, enterprise geographic information systems, enterprise resource planning, database management, cybersecurity, data engineer, software developer, full stack engineer, cloud engineer, and an active pivot into applied AI. I architect and deploy systems that solve real operational problems with measurable impact.
 
 I'm not a theorist. Every project here started with a business problem and ended with production software.
 
