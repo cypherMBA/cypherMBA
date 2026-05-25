@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel R. Romero
-### Director of Business Technology · AI Developer · Cybersecutiy Management · Business Intelligence · Data Analyst · Dashboard Guru ·PMP®
+### Director of Business Technology · AI Developer · Cybersecutiy Management · Business Intelligence · Data Analyst · BI Dashboard Engineer ·PMP®
 
 *I don't just lead technology — I build it.*
 
