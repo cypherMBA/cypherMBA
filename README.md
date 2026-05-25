@@ -130,8 +130,8 @@ I'm not a theorist. Every project here started with a business problem and ended
 ### 🗺️ GIS & Engineering Design
 | Certification | Issuer | Year |
 |---|---|---|
-| AutoCAD Certified Professional | Autodesk | — |
-| AutoCAD Certified Associate | Autodesk | — |
+| AutoCAD Certified Professional | Autodesk | 2012 |
+| AutoCAD Certified Associate | Autodesk | 2012 |
 | Fundamentals of GIS | UC Davis / Coursera | 2023 |
 | Onshape Hands-On (CAD) | Onshape | 2025 |
 
