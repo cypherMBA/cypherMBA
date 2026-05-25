@@ -3,7 +3,7 @@
 # Gabriel R. Romero
 ### Director of Business Technology · AI Developer · Cybersecutiy Governance · Business Intelligence · Data Analyst · BI Dashboard Engineer ·Project Management Professional®
 
-*I don't just lead technology — I build it.*
+*Executive technology leader who architects and builds transforming complex business challenges into high-impact solutions that eliminate friction and deliver measurable returns. *
 
 </div>
 
