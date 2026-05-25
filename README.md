@@ -52,19 +52,103 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Credentials
 
-- 🏅 **PMP®** — Project Management Professional (PMI)
-- 🔐 **CC** — Certified in Cybersecurity (ISC²)
-- 🤖 **Applied Generative AI Specialization** — Capstone + Governance + LLM Applications
-- ☁️ **Microsoft Azure Data Engineering** · **Azure AI Studio**
-- 🗺️ **Google Project Management Certificate** (7-course)
-- 🛡️ **Google Cybersecurity Certificate**
-- ✏️ **AutoCAD Certified Professional**
-- 📦 **Deltek Vision Certified** — Master · CRM · Accounting
-- 🛩️ **FAA Remote Pilot Certificate**
+### 🏛️ Professional Credentials
+| Credential | Issuer | Year |
+|---|---|---|
+| Project Management Professional (PMP)® | PMI | 2020 |
+| Certified in Cybersecurity (CC) | ISC² | 2025 |
+| FAA Remote Pilot Certificate (Part 107) | FAA | 2025 |
+
+### 🤖 Artificial Intelligence & Generative AI
+| Certification | Issuer | Year |
+|---|---|---|
+| Applied Generative AI Specialization (Capstone) | Coursera | 2026 |
+| Applied Generative AI — Generative AI Governance | Coursera | 2026 |
+| Applied Generative AI — Building LLM Applications | Coursera | 2026 |
+| Applied Generative AI — Models & Architecture | Coursera | 2025 |
+| Applied Generative AI — AI Literacy | Coursera | 2025 |
+| Applied Generative AI — Python Basics | Coursera | 2025 |
+| Generative AI Models & Transformer Networks | Simplilearn | 2025 |
+| Attention Mechanisms & Transformer Models | Simplilearn | 2025 |
+| Introduction to Autoencoders, VAEs & GANs | Simplilearn | 2025 |
+| Foundations of Generative AI Models | Simplilearn | 2025 |
+| Anthropic Claude 101 | Anthropic | 2026 |
+| Azure AI Studio — Complete Guide to Copilot | Udemy | 2025 |
+| Generative AI for Data Science with Copilot | Microsoft / Coursera | 2025 |
+| Data Preparation & Evaluation with Copilot | Microsoft / Coursera | 2025 |
+| Practical Application of Generative AI for PMs | PMI | 2025 |
+| Talking to AI: Prompt Engineering for PMs | PMI | 2025 |
+
+### 🛡️ Cybersecurity
+| Certification | Issuer | Year |
+|---|---|---|
+| Google Cybersecurity Certificate (8-course) | Google / Coursera | 2023 |
+| Foundations of Cybersecurity | Google / Coursera | 2023 |
+| Play It Safe: Manage Security Risks | Google / Coursera | 2023 |
+| Connect & Protect: Networks & Network Security | Google / Coursera | 2023 |
+| Tools of the Trade: Linux & SQL | Google / Coursera | 2023 |
+| Assets, Threats & Vulnerabilities | Google / Coursera | 2023 |
+| Sound the Alarm: Detection & Response | Google / Coursera | 2023 |
+| Automate Cybersecurity Tasks with Python | Google / Coursera | 2023 |
+| ISC² CC — Domain 1: Security Principles | ISC² | 2025 |
+| ISC² CC — Domain 2: Incident Response, BC & DR | ISC² | 2025 |
+| ISC² CC — Domain 3: Access Control Concepts | ISC² | 2025 |
+| ISC² CC — Domain 4: Network Security | ISC² | 2025 |
+| ISC² CC — Domain 5: Security Operations | ISC² | 2025 |
+| Barracuda PST Enterprise Certified Engineer (BT330) | Barracuda | 2024 |
+| Falcon Identity Protection Fundamentals | CrowdStrike | 2023 |
+| Microsoft Certified Professional (MCP) | Microsoft | — |
+| Microsoft Certified Systems Administrator (MCSA) | Microsoft | — |
+| CompTIA A+ | CompTIA | — |
+| CompTIA Network+ | CompTIA | — |
+| CompTIA Security+ | CompTIA | — |
+
+### 📋 Project Management
+| Certification | Issuer | Year |
+|---|---|---|
+| Google Project Management Certificate (6-course) | Google / Coursera | 2024 |
+| Google PM — Foundations of Project Management | Google / Coursera | 2024 |
+| Google PM — Project Initiation | Google / Coursera | 2024 |
+| Google PM — Project Planning | Google / Coursera | 2024 |
+| Google PM — Project Execution | Google / Coursera | 2024 |
+| Google PM — Agile Project Management | Google / Coursera | 2024 |
+| Google PM — Capstone | Google / Coursera | 2024 |
+| Project Management Fundamentals | Microsoft / Coursera | 2024 |
+| Managing Project Risks & Changes | UC Irvine / Coursera | 2020 |
+| Initiating & Planning Projects | UC Irvine / Coursera | 2020 |
+
+### ☁️ Cloud & Data Engineering
+| Certification | Issuer | Year |
+|---|---|---|
+| Microsoft Azure for Data Engineering | Microsoft / Coursera | 2023 |
+| What is Data Science? | IBM / Coursera | 2024 |
+| Business Metrics for Data-Driven Companies | Duke University / Coursera | 2020 |
+| SQL for Data Science | UC Davis / Coursera | 2020 |
+
+### 🗺️ GIS & Engineering Design
+| Certification | Issuer | Year |
+|---|---|---|
+| AutoCAD Certified Professional | Autodesk | — |
+| AutoCAD Certified Associate | Autodesk | — |
+| Fundamentals of GIS | UC Davis / Coursera | 2023 |
+| Onshape Hands-On (CAD) | Onshape | 2025 |
+
+### 📦 Enterprise Software
+| Certification | Issuer | Year |
+|---|---|---|
+| Deltek Vision Certified Master | Deltek | — |
+| Deltek Vision Certified CRM | Deltek | — |
+| Deltek Vision Certified Accounting | Deltek | — |
+
+### ✍️ Professional Development
+| Certification | Issuer | Year |
+|---|---|---|
+| High Impact Business Writing | UC Irvine / Coursera | 2023 |
 
 ---
+
 
 ## 🎓 Education
 
