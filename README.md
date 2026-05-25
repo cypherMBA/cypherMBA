@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel R. Romero
-### Director of Business Technology · AI Developer · PMP®
+### Director of Business Technology · AI Developer · Cybersecutiy · PMP®
 
 *I don't just lead technology — I build it.*
 
