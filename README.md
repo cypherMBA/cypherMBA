@@ -172,8 +172,6 @@ Technology is not overhead. It is compounding capital. I turn technology spend i
 
 ---
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
