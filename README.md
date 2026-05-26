@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel R. Romero
+
 ### AI & Enterprise Systems Technologist | Applying a Layer of AI & Transforming Legacy Infrastructure to Intelligent Platforms
 ### Director of Business Technology · AI Developer · Cybersecutiy Governance · Business Intelligence · Data Analyst · BI Dashboard Engineer ·Project Management Professional®
 
