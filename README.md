@@ -29,6 +29,11 @@ I'm not a theorist. Every project here started with a business problem and ended
 | 📈 **Stock Analyst App** | 7-tab AI-powered research platform integrating Polygon, FMP, SEC EDGAR, Finnhub & Claude AI sentiment scoring | **10x faster** per-stock analysis |
 
 ---
+## 📺 Demo
+
+[![Stock Analyst App Demo](https://img.youtube.com/vi/GeFwHrHSAJc/maxresdefault.jpg)](https://youtu.be/GeFwHrHSAJc)
+
+*Click the thumbnail above to watch the full demo on YouTube.*
 
 ## 🛠 Tech Stack
 
