@@ -31,23 +31,29 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 ## 🛠 Tech Stack
 
-**AI/ML** |
-`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Fac` `Frontier Models` `Ollama` `Chroma DB` 
+**AI/ML**
+
+`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `Tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Face` `Frontier Models` `Ollama` `Chroma DB`
 
 **Web & Full-Stack**
+
 `React` `HTML/CSS/JavaScript` `ASP.NET Core` `C#` `FastAPI` `Razor Pages` `REST APIs` `WebSockets`
 
 **Data & Cloud**
-`SQL Server` `SQLite` `Microsoft Graph API` `Azure Blob Storage` `SharePoint` `OAuth2 PKCE` `ETL` `Power BI` 
+
+`SQL Server` `SQLite` `Microsoft Graph API` `Azure Blob Storage` `SharePoint` `OAuth2 PKCE` `ETL` `Power BI`
 
 **Engineering & GIS**
+
 `AutoCAD Civil 3D` `ArcGIS Pro` `Geodatabases` `Field Maps` `LiDAR` `Drone (DJI Matrice RTK 350)` `Survey123` `AutoCAD Map 3D` `Autodesk ReCap Pro` `Autodesk InfraWorks`
 
 **Infrastructure & Security**
-`Windows Server` `Hyper-V` `Storage Area Network` `Microsoft Entra` `Active Directory` `Group Policy Object` `Virtualization` `Virtual Local Area Network1` `Firewalls` `Layer 3 Network Switches` `Enterprise Wireless Networking` `Cybersecurity (CC – ISC²)` `CrowdStrike` `Microsoft Defender` `Security Event Information Management` `Endpoint Security` `Email Security and Threat Detections` `Cybersecurity Threat Detection and Reponse` `Microsoft 365 Governance Policy` `Microsoft Teams Policy Management` 
+
+`Windows Server` `Hyper-V` `Storage Area Network` `Microsoft Entra` `Active Directory` `Group Policy Object` `Virtualization` `Virtual Local Area Network` `Firewalls` `Layer 3 Network Switches` `Enterprise Wireless Networking` `Cybersecurity (CC – ISC²)` `CrowdStrike` `Microsoft Defender` `Security Event Information Management` `Endpoint Security` `Email Security & Threat Detection` `Cybersecurity Threat Detection & Response` `Microsoft 365 Governance Policy` `Microsoft Teams Policy Management`
 
 **IT Project Management & AI Tools**
-`Microsoft Project` `Asana` `GitHub` `PMI Infinity` 
+
+`Microsoft Project` `Asana` `GitHub` `PMI Infinity`
 
 ---
 
