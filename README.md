@@ -158,15 +158,9 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 **Master of Business Aministration** 
 
-University of New Orleans
-
 **Bachelor of Science Information Technology Management** 
 
-Herzing University
-
 **Associate of Science Computer Network Technology** 
-
-Herzing University
 
 ---
 
