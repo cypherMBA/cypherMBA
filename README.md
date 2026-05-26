@@ -154,12 +154,16 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 ---
 
-
 ## 🎓 Education
 
-**M.B.A.** — University of New Orleans
-**B.S.** Information Technology Management — Herzing University
-**A.S.** Computer Network Technology — Herzing University
+**Master of Business Aministration** 
+University of New Orleans
+
+**Bachelor of Science Information Technology Management** 
+Herzing University
+
+**Associate of Science Computer Network Technology** 
+Herzing University
 
 ---
 
