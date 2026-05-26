@@ -22,7 +22,6 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 | Project | What It Does | Impact |
 |---|---|---|
-
 | 📡 **StratSight AI** | Self-hosted real-time intelligence platform unifying news, AIS maritime, aviation, markets & crypto with LLM threat scoring | Replaces **5+ platform subscriptions**, saves 2–4 hrs/day |
 | 📈 **aiStockLab** | 7-tab AI-powered research platform integrating Polygon, FMP, SEC EDGAR, Finnhub & Claude AI sentiment scoring | **10x faster** per-stock analysis |
 <!-- | 🤖 **RFP Agent** | Agentic AI system using RAG + multi-LLM (Claude/GPT-4/Gemini) to evaluate public advertisements, produce executive summary,  and match candidates | Replaces intuition-driven decisions with structured, data-backed intelligence giving decision-makers clarity and confidence at speed. | -->
