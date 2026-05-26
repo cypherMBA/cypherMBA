@@ -166,9 +166,9 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 ## 📌 Philosophy
 
-> *Build things that matter. Measure the impact. Ship to production.*
+> *Stop. Look. Read. Listen. See the big picture. Identify the Opportunites. Build things to exploit the opportunity. Measure the impact. Iterate. Disruption is the Core Diffrentiator. *
 
-I believe the most valuable engineers aren't the ones who know the most frameworks — they're the ones who understand the business problem deeply enough to know which tool actually solves it.
+Technology is not overhead. It is compounding capital. I turn technology spend into measurable returns by designing solutions that exceed their expected lifecycle, future-proofed from the ground up and interoperable at every layer, so the investment keeps growing long after the initial cost is recovered.
 
 ---
 
