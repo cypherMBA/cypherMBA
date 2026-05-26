@@ -32,7 +32,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 ## 🛠 Tech Stack
 
 **AI/ML**
-`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Fac` `Frontier Models` `Ollama` 
+`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Fac` `Frontier Models` `Ollama` `Chroma DB` 
 
 **Web & Full-Stack**
 `React` `HTML/CSS/JavaScript` `ASP.NET Core` `C#` `FastAPI` `Razor Pages` `REST APIs` `WebSockets`
@@ -44,7 +44,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 `AutoCAD Civil 3D` `ArcGIS Pro` `Geodatabases` `Field Maps` `LiDAR` `Drone (DJI Matrice RTK 350)` `Survey123` `AutoCAD Map 3D` `Autodesk ReCap Pro` `Autodesk InfraWorks`
 
 **Infrastructure & Security**
-'Microsoft Entra' `Active Directory` `Virtualization` `VPN/VLAN` `Firewalls` `Cybersecurity (CC – ISC²)` `CrowdStrike` `Microsoft Defender` `Security Event Information Management` `Endpoint Security` `Email Security and Threat Detections` `Cybersecurity Threat Detection and Reponse` `Microsoft 365 Governance Policy` `Microsoft Teams Policy Management` 
+`Windows Server` `Hyper-V` `Storage Area Network` `Microsoft Entra` `Active Directory` `Group Policy Object` `Virtualization` `Virtual Local Area Network1` `Firewalls` `Layer 3 Network Switches` `Enterprise Wireless Networking` `Cybersecurity (CC – ISC²)` `CrowdStrike` `Microsoft Defender` `Security Event Information Management` `Endpoint Security` `Email Security and Threat Detections` `Cybersecurity Threat Detection and Reponse` `Microsoft 365 Governance Policy` `Microsoft Teams Policy Management` 
 
 **IT Project Management & AI Tools**
 `Microsoft Project` `Asana` `GitHub` `PMI Infinity` 
