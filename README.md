@@ -33,7 +33,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 **AI/ML**
 
-`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `Tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Face` `Frontier Models` `Ollama` `Chroma DB`
+`Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Azure AI Search` `Figma` `uizard.io` `PMI Infinity` `Tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Face` `Frontier Models` `Ollama` `Chroma DB` `Microsoft Power Automate`
 
 **Web & Full-Stack**
 
@@ -41,7 +41,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 **Data & Cloud**
 
-`SQL Server` `SQLite` `Microsoft Graph API` `Azure Blob Storage` `SharePoint` `OAuth2 PKCE` `ETL` `Power BI`
+`SQL Server` `SASS` `SSRS` `SQLite` `Microsoft Graph API` `Azure Blob Storage` `SharePoint` `OAuth2 PKCE` `ETL` `Power BI` `Power BI Server` 
 
 **Engineering & GIS**
 
