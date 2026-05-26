@@ -31,7 +31,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 ## 🛠 Tech Stack
 
-**AI/ML**
+**AI/ML** |
 `Python` `LangChain` `RAG` `Prompt Engineering` `Agentic Workflows` `Claude API` `OpenAI API` `Gemini API` `Transformer Models` `LLM Integration` `Copilot Studio` `Microsoft Foundry` `Azure OpenAI` `Figma` `uizard.io` `PMI Infinity` `tavily` `Gradio` `Streamlit` `Julius AI` `Hugging Fac` `Frontier Models` `Ollama` `Chroma DB` 
 
 **Web & Full-Stack**
