@@ -22,8 +22,8 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 | Project | What It Does | Impact |
 |---|---|---|
-|**StratSight**| Self-hosted real-time intelligence platform unifying news, AIS maritime, aviation, markets & crypto with LLM threat scoring | Replaces **5+ platform subscriptions**, saves 2–4 hrs/day |
-|**aiStockLab**| 7-tab AI-powered research platform integrating Polygon, FMP, SEC EDGAR, Finnhub & Claude AI sentiment scoring | **10x faster** per-stock analysis |
+|🧠**StratSight**| Self-hosted real-time intelligence platform unifying news, AIS maritime, aviation, markets & crypto with LLM threat scoring | Replaces **5+ platform subscriptions**, saves 2–4 hrs/day |
+|📈**aiStockLab**| 7-tab AI-powered research platform integrating Polygon, FMP, SEC EDGAR, Finnhub & Claude AI sentiment scoring | **10x faster** per-stock analysis |
 <!-- | 🤖 **RFP Agent** | Agentic AI system using RAG + multi-LLM (Claude/GPT-4/Gemini) to evaluate public advertisements, produce executive summary,  and match candidates | Replaces intuition-driven decisions with structured, data-backed intelligence giving decision-makers clarity and confidence at speed. | -->
 <!-- | 📊 **Capital Roadway Bond Executive Dashboard** | Live SharePoint-integrated dashboard for a Multi-million, road bond program consisting of hundreds of roads via Microsoft Graph API + OAuth2 PKCE | Eliminates **75+ hrs/week** of manual reporting | -->
 <!-- | 💰 **Project Budgeting Web Application** | Full-stack ASP.NET Core 10 app built via agentic AI coding workflow. First structured project profitability system | **30 users**, avoided **$125K** in 3-yr TCO | -->
