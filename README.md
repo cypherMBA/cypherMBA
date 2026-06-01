@@ -174,7 +174,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 
 > *Stop. Look. Read. Listen. See the big picture. Identify the Opportunites. Build things to exploit the opportunity. Measure the impact. Iterate. Disruption is the Core Diffrentiator. *
 
-Technology is not overhead. It is compounding capital. I turn technology spend into measurable returns by designing solutions that exceed their expected lifecycle, future-proofed from the ground up and interoperable at every layer, so the investment keeps growing long after the initial cost is recovered.
+Technology is not a cost center. It is a compounding capital asset. I transform technology investments into measurable business returns by implementing security-by-design architectures that extend beyond their expected lifecycle. Each solution is engineered to be resilient, future-ready, and interoperable across the enterprise, ensuring that value continues to accrue long after the initial investment is realized.
 
 ---
 
