@@ -75,16 +75,16 @@ I'm not a theorist. Every project here started with a business problem and ended
 ### 🤖 Artificial Intelligence & Generative AI
 | Certification | Issuer | Year |
 |---|---|---|
-| Applied Generative AI Specialization (Capstone) | Coursera | 2026 |
-| Applied Generative AI — Generative AI Governance | Coursera | 2026 |
-| Applied Generative AI — Building LLM Applications | Coursera | 2026 |
-| Applied Generative AI — Models & Architecture | Coursera | 2025 |
-| Applied Generative AI — AI Literacy | Coursera | 2025 |
-| Applied Generative AI — Python Basics | Coursera | 2025 |
-| Generative AI Models & Transformer Networks | Simplilearn | 2025 |
-| Attention Mechanisms & Transformer Models | Simplilearn | 2025 |
-| Introduction to Autoencoders, VAEs & GANs | Simplilearn | 2025 |
-| Foundations of Generative AI Models | Simplilearn | 2025 |
+| Applied Generative AI Specialization (Capstone) | Purdue / Simplilearn | 2026 |
+| Applied Generative AI — Generative AI Governance | Purdue / Simplilearn | 2026 |
+| Applied Generative AI — Building LLM Applications | Purdue / Simplilearn | 2026 |
+| Applied Generative AI — Models & Architecture | Purdue / Simplilearn | 2025 |
+| Applied Generative AI — AI Literacy | Purdue / Simplilearn | 2025 |
+| Applied Generative AI — Python Basics | Purdue / Simplilearn | 2025 |
+| Generative AI Models & Transformer Networks | Purdue / Simplilearn | 2025 |
+| Attention Mechanisms & Transformer Models | Purdue / Simplilearn | 2025 |
+| Introduction to Autoencoders, VAEs & GANs | Purdue / Simplilearn | 2025 |
+| Foundations of Generative AI Models | Purdue / Simplilearn | 2025 |
 | Anthropic Claude 101 | Anthropic | 2026 |
 | Azure AI Studio — Complete Guide to Copilot | Udemy | 2025 |
 | Generative AI for Data Science with Copilot | Microsoft / Coursera | 2025 |
