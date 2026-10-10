@@ -31,7 +31,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 ---
 ## 📺 Demo of Stock Advisor
 
-[![Stock Analyst App Demo](https://youtu.be/FBIdeITkvPk)
+[![Stock Analyst App Demo](https://img.youtube.com/vi/FBIdeITkvPk/hqdefault.jpg)](https://www.youtube.com/watch?v=FBIdeITkvPk)
 
 *Click the thumbnail above to watch the full demo on YouTube.*
 
