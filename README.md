@@ -25,6 +25,7 @@ I'm not a theorist. Every project here started with a business problem and ended
 |---|---|---|
 |🧠&nbsp;StratSight&nbsp;AI | Self-hosted real-time intelligence platform unifying news, AIS maritime, aviation, markets & crypto with LLM threat scoring | Replaces **5+ platform subscriptions**, saves 2–4 hrs/day |
 |📈&nbsp;StockAdvisor | 7-tab AI-powered research platform integrating Polygon, FMP, SEC EDGAR, Finnhub & Claude AI sentiment scoring | **10x faster** per-stock analysis |
+|🧾&nbsp;AI&nbsp;Expense&nbsp;Manager | Multi-agent AI platform (Claude + LangChain) that reads invoices and purchase orders, classifies IT spend into the TBM framework with human review, and reports it to the CFO, CIO & CEO. Live in production | **14.1x ROI**, 80.8% extraction accuracy, 26 of 32 POs matched automatically |
 <!-- | 🤖 **RFP Agent** | Agentic AI system using RAG + multi-LLM (Claude/GPT-4/Gemini) to evaluate public advertisements, produce executive summary,  and match candidates | Replaces intuition-driven decisions with structured, data-backed intelligence giving decision-makers clarity and confidence at speed. | -->
 <!-- | 📊 **Capital Roadway Bond Executive Dashboard** | Live SharePoint-integrated dashboard for a Multi-million, road bond program consisting of hundreds of roads via Microsoft Graph API + OAuth2 PKCE | Eliminates **75+ hrs/week** of manual reporting | -->
 <!-- | 💰 **Project Budgeting Web Application** | Full-stack ASP.NET Core 10 app built via agentic AI coding workflow. First structured project profitability system | **30 users**, avoided **$125K** in 3-yr TCO | -->
@@ -32,6 +33,12 @@ I'm not a theorist. Every project here started with a business problem and ended
 ## 📺 Demo of Stock Advisor
 
 [![Stock Analyst App Demo](https://img.youtube.com/vi/FBIdeITkvPk/hqdefault.jpg)](https://www.youtube.com/watch?v=FBIdeITkvPk)
+
+*Click the thumbnail above to watch the full demo on YouTube.*
+
+## 📺 Demo of AI Expense Manager
+
+[![AI Expense Manager Demo](https://img.youtube.com/vi/Yxj1zPpaCmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Yxj1zPpaCmQ)
 
 *Click the thumbnail above to watch the full demo on YouTube.*
 
