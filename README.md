@@ -30,6 +30,14 @@ I'm not a theorist. Every project here started with a business problem and ended
 <!-- | 📊 **Capital Roadway Bond Executive Dashboard** | Live SharePoint-integrated dashboard for a Multi-million, road bond program consisting of hundreds of roads via Microsoft Graph API + OAuth2 PKCE | Eliminates **75+ hrs/week** of manual reporting | -->
 <!-- | 💰 **Project Budgeting Web Application** | Full-stack ASP.NET Core 10 app built via agentic AI coding workflow. First structured project profitability system | **30 users**, avoided **$125K** in 3-yr TCO | -->
 ---
+## 📺 Demo of AI Dashboard for News, Markets & Global Traffic
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Zl-vqITIeqU"><img src="https://img.youtube.com/vi/Zl-vqITIeqU/maxresdefault.jpg" alt="AI Dashboard for News, Markets & Global Traffic Demo" width="640"></a>
+  <br>
+  <em>Click the thumbnail above to watch the full demo on YouTube.</em>
+</p>
+
 ## 📺 Demo of Stock Advisor
 
 <p align="center">
