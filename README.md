@@ -32,15 +32,19 @@ I'm not a theorist. Every project here started with a business problem and ended
 ---
 ## 📺 Demo of Stock Advisor
 
-[![Stock Analyst App Demo](https://img.youtube.com/vi/FBIdeITkvPk/hqdefault.jpg)](https://www.youtube.com/watch?v=FBIdeITkvPk)
-
-*Click the thumbnail above to watch the full demo on YouTube.*
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FBIdeITkvPk"><img src="https://img.youtube.com/vi/FBIdeITkvPk/maxresdefault.jpg" alt="Stock Advisor Demo" width="640"></a>
+  <br>
+  <em>Click the thumbnail above to watch the full demo on YouTube.</em>
+</p>
 
 ## 📺 Demo of AI Expense Manager
 
-[![AI Expense Manager Demo](https://img.youtube.com/vi/Yxj1zPpaCmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Yxj1zPpaCmQ)
-
-*Click the thumbnail above to watch the full demo on YouTube.*
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Yxj1zPpaCmQ"><img src="https://img.youtube.com/vi/Yxj1zPpaCmQ/maxresdefault.jpg" alt="AI Expense Manager Demo" width="640"></a>
+  <br>
+  <em>Click the thumbnail above to watch the full demo on YouTube.</em>
+</p>
 
 ## 🛠 Tech Stack
 
